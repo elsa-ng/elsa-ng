@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elsa-ng
 - 👀 I’m interested in Coding, Gaming, Playing Piano
-- 🌱 I’m currently learning Fractal, React
+- 🌱 I’m currently learning React, Figma, Project Management
 - 💞️ I’m looking to collaborate on Design System projects
 - 📫 Reach me through discord Miffy427#8981
 
